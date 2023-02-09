@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -l /boot
+dir -l
