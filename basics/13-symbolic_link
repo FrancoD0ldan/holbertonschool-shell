@@ -1,2 +1,2 @@
-#!/bin/bash
-mklink /d /bin/ls _ls_
+0;10;1c#!/bin/bash
+mklink /D bin/ls/_ls_ 
