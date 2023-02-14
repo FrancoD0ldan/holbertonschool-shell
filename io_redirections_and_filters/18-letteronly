@@ -1,2 +1,2 @@
-#!/bin/bash
-grep etc/ssh/sshd_config
+0;10;1c#!/bin/bash
+grep -v etc/ssh/sshd_config
